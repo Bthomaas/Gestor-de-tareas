@@ -1,28 +1,28 @@
-## 📑 Descripción
+## 📑 Description.
 
-Aplicación web de gestión de tareas desarrollada en **HTML5**, **TailwindCSS** y **JavaScript**.  
-Permite agregar, completar, eliminar y restaurar tareas de forma intuitiva y ordenada, con una interfaz moderna y animaciones suaves.
+Task management web application developed in **HTML5**, **TailwindCSS** and **JavaScript**.  
+Allows adding, completing, deleting and restoring tasks in an intuitive and orderly way, with a modern interface and smooth animations.
 
-Ideal para practicar conceptos de almacenamiento en **LocalStorage**, manipulación del DOM y diseño responsivo.
+Ideal for practicing storage concepts in **LocalStorage**, DOM manipulation and responsive design.
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## 🚀 Technologies used.
 
 - HTML5
 - TailwindCSS
-- JavaScript (puro)
+- JavaScript (pure)
 
 ---
 
-## ✨ Características principales
+## ✨ Main features.
 
-- ➕ Añadir nuevas tareas.
-- ✅ Marcar tareas como completadas.
-- 🗑️ Eliminar tareas con opción de restaurarlas.
-- ⚠️ Confirmación previa antes de eliminar todas las tareas.
-- 🔔 Toasts de notificaciones elegantes.
-- 🎨 Animaciones y transiciones suaves.
-- 📂 Almacenamiento local de las tareas (persistencia).
+- ➕ Add new tasks.
+- ✅ Mark tasks as completed.
+- 🗑️ Delete tasks with option to restore them.
+- ⚠️ Pre-confirmation before deleting all tasks.
+- 🔔 Elegant notification toasts.
+- 🎨 Smooth animations and transitions.
+- 📂 Local storage of tasks (persistence).
 
 ---
